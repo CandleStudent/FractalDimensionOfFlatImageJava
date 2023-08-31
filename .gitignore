@@ -1,0 +1,8 @@
+.idea/
+out/
+*.iml
+*.iws
+log/
+target/
+JRE/
+sampleImg/
